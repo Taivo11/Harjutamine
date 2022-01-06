@@ -1,0 +1,3 @@
+GitHubi peamine kasutus on koodi majutus ja versioonihaldus.
+
+ GitHub pakub teenust IT-professionaalidele, töörühmadele ja ettevõtetele
