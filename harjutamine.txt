@@ -1,3 +1,10 @@
 GitHubi peamine kasutus on koodi majutus ja versioonihaldus.
 
  GitHub pakub teenust IT-professionaalidele, töörühmadele ja ettevõtetele
+
+
+Kuidas saan ise kasutada GitHubi?
+
+GitHub võimaldab koodi dokumentatsiooni README-failide kaudu.
+Lisaks vigadest teatamist (kaasa arvatud soovitusi koodi parandamiseks ja uuteks funktsioonideks ja projektidele viki loomist
+Teha graafikuid ja statistikat iga projekti kohta.
